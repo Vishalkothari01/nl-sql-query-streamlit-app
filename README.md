@@ -26,3 +26,4 @@ pip install -r requirements.txt
 ## Setup
 
 1. Clone the repository:
+git clone https://github.com/Vishalkothari01/nl-sql-query-streamlit-app.git
