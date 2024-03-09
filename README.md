@@ -16,6 +16,7 @@ This project is a Streamlit web application that allows users to input natural l
 - Streamlit
 - Azure OpenAI
 - SQLAlchemy
+  
 To create a virtual environment and test your requirements.txt, you can use the following commands:
 
 bash
