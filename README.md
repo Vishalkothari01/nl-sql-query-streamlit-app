@@ -16,7 +16,12 @@ This project is a Streamlit web application that allows users to input natural l
 - Streamlit
 - Azure OpenAI
 - SQLAlchemy
+To create a virtual environment and test your requirements.txt, you can use the following commands:
 
+bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+pip install -r requirements.txt
 ## Setup
 
 1. Clone the repository:
